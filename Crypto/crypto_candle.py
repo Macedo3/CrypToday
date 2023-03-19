@@ -1,8 +1,10 @@
+# Guied Project: NeuralNine
+# Code: https://www.youtube.com/watch?v=HqGlkACB3rg
+
+
 import pandas_datareader as web
 import datetime as dt
 import mplfinance as mpf
-
-# Code: https://www.youtube.com/watch?v=HqGlkACB3rg
 
 start = dt.datetime(2020, 1, 1)
 end = dt.datetime.now()
