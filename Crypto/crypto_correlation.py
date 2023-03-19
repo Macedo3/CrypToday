@@ -1,3 +1,8 @@
+# Guied Project: NeuralNine
+# Code: https://www.youtube.com/watch?v=HqGlkACB3rg
+
+
+
 import pandas_datareader as web
 import mplfinance as mpf
 import datetime as dt
